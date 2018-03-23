@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: emiDevs
 header-img: img/home-bg.png
 email: e.nicholl.liepe@gmail.com
 copyright_name: e46and2
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Reflections on Programming
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  e46and2
