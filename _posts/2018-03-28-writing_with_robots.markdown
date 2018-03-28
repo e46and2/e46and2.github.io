@@ -12,7 +12,7 @@ In her 2004 article for *The American Scholar,* "[The Scientific Method: Dining 
 
 At the time, I was working toward my BA in English Writing. I had taken a course called "Technology and Culture" to fill a core curriculum requirement. It was intimidating because it was from the Engineering department(!), and I had a dubious relationship with things I considered technical. It's hard to explain why. In high school, I loved my physics classes and was approached by the instructor to take his electronics courses, but sadly, at the time, I had the impression that electronics and anything even slightly mechanical or technical was only for really smart guys who played video games. Not me.
 
-That began to change when I took "Technology and Culture" and then when I became a TA for those courses. (Shout out to Dr. Tang!)
+That began to change when I took "Technology and Culture" and as I became a TA for those courses. (Shout out to Dr. Tang!)
 
 In the first units of the course, we learned about the history of the internet. This blew my mind. It had never occured to me  to wonder about how technologies like this developed, or to investigate the social and political nuance that influences development and implementation. Arnold Pacey's idea that "[technology is not neutral](https://www.amazon.com/Culture-Technology-MIT-Press/dp/0262660563)" was paradigm-shifting for me, and has colored the way I view technological development ever since: to be fiercely user-focused and to take into account social and cultural factors as well.
 
