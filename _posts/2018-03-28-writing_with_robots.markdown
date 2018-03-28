@@ -1,16 +1,16 @@
 ---
 layout: post
 title:      " Writing with Robots"
-date:       2018-03-28 20:24:13 +0000
+date:       2018-03-28 16:24:14 -0400
 permalink:  writing_with_robots
 ---
 
 
-Why become a developer? The short answer is, because it's fun.  And because I finally believe that I can. 
+Why do I want to become a developer? The short answer is, because it's fun.  And because I finally believe that I can. 
 
-In her 2004 article for *The American Scholar,* called "[The Scientific Method: Dining with Robots](https://www.jstor.org/stable/41221351?seq=1#page_scan_tab_contents)," Ellen Ullman describes the experience of her first programming class. When I first read this article as an undergrad at the University of Colorado Denver, I was struck by three things. First, that what she was saying fascinating: our mechanization as a culture and desire for sterilized order suggests that we are becoming more like machines, rather than (or in addition to) them becoming like us. But what resonated with me more was that Ullman was an English major, a woman, and a programmer. And she described programming in a way that was relatable to me.
+In her 2004 article for *The American Scholar,* "[The Scientific Method: Dining with Robots](https://www.jstor.org/stable/41221351?seq=1#page_scan_tab_contents)," Ellen Ullman describes the experience of her first programming class. When I first read this article as an undergrad at the University of Colorado Denver, I was struck by three things. First, that what she was saying fascinating: our mechanization as a culture and desire for sterilized order suggests that we are becoming more like machines, rather than (or in addition to) them becoming like us. But what resonated with me more was that Ullman was an English major, a woman, and a programmer. And she described programming in a way that was relatable to me.
 
-At the time, I was an English major working toward a BA in English Writing. I had taken a course called "Technology and Culture" to fill a core curriculum requirement. It was intimidating because it was from the Engineering department(!), and I had a dubious relationship with things I considered technical. It's hard to explain why. In high school, I loved my physics classes and was approached by the instructor to take his electronics courses, but sadly, at the time, I had the impression that electronics and anything even slightly mechanical or technical was only for really smart guys who played video games. Not me.
+At the time, I was working toward my BA in English Writing. I had taken a course called "Technology and Culture" to fill a core curriculum requirement. It was intimidating because it was from the Engineering department(!), and I had a dubious relationship with things I considered technical. It's hard to explain why. In high school, I loved my physics classes and was approached by the instructor to take his electronics courses, but sadly, at the time, I had the impression that electronics and anything even slightly mechanical or technical was only for really smart guys who played video games. Not me.
 
 That began to change when I took "Technology and Culture" and then when I became a TA for those courses. (Shout out to Dr. Tang!)
 
