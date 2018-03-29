@@ -24,7 +24,7 @@ After I graduated, I enrolled in an MA program for eLearning Design and Developm
 
 I loved creating things that I could interact with on the screen. I loved the way it made me rethink communication. I loved breaking meaning down into parts and trying to figure out how to communicate it to a machine that didn't know anything until I taught it something. It challenged me to rethink how I assumed and relayed meaning to humans and machines alike, and to say exactly what I meant, to both audiences.
 
-In short, I loved the pure grammar of it. I realized that I was a more technically-minded English major than I thought, and I began to see programming in the context of linguistics (which was my first declared major) and that made it seem much more approachable to me. It was just like writing, but with robots.
+In short, I loved the pure grammar of it. I realized that I was a more technically-minded English major than I thought, and I began to see programming in the context of linguistics (my first declared major...and longtime love) and that made it seem much more approachable to me. It was just like writing, but with robots.
 
 At the same time, I got a job as a media/tech aide at an elementary school. My job was to help with library check out, teach computer classes for K-2 graders (where not assuming knowledge came in handy! Mice are hard to control and right clicks vs left clicks are a big thing!), and be the first point of contact for technical support at the school. I was inching my way closer to technology. 
 
