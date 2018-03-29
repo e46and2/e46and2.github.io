@@ -30,7 +30,7 @@ At the same time, I got a job as a media/tech aide at an elementary school. My j
 
 One day, we had a Dell Optilex 330 with a blue screen of death. I had Googled as much as I could to figure out the issue (and even tried turning it off and then on!), but nothing worked. I called the Help Desk and a technician came over. He was genial and eager to show me what to look for and what to try. He crouched down and unplugged the tower and popped off the side panel of the machine.  My mind was blown again. I'm not sure what I expected to see, but I know that I expected the magical innards of a computer to be much more dense and entwined and complicated. Maybe oozing with metallic fluid. Or covered with an incipherable mechanical haze that only certain shamans from WoW could penetrate with a knowing gaze.
 
-It wasn't.
+They weren't.
 
 He blew out the dust bunnies from the fan, pointed out each part, and reseated the ram. Then, he put the side back on and plugged everything back in. He turned it back on...and voilà! Windows loaded; no more scary white words splattered across the screen. I had never seen the inside of a machine before, and I didn't expect it to be organized into such discrete, functional parts. It turned out, computers weren't really that complicated to understand after all. 
 
