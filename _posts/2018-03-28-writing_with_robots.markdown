@@ -6,7 +6,7 @@ permalink:  writing_with_robots
 ---
 
 
-Why do I want to become a developer? The short answer is: because it's fun.  And because I finally believe that I can. 
+Why do I want to become a developer? The short answer (tl;dr) is: because it's fun.  And the long answer (below), is because I finally believe that I can. 
 
 In her 2004 article for *The American Scholar,* "[The Scientific Method: Dining with Robots](https://www.jstor.org/stable/41221351?seq=1#page_scan_tab_contents)," Ellen Ullman describes the experience of her first programming class. When I first read this article as an undergrad, I was struck by three things. 
 
