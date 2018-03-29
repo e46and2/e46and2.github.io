@@ -34,7 +34,7 @@ It wasn't.
 
 He blew out the dust bunnies from the fan, pointed out each part, and reseated the ram. Then, he put the side back on and plugged everything back in. He turned it back on...and voila! Windows loaded; no more scary white words splattered across the screen. I had never seen the inside of a machine before, and I didn't expect it to be organized into such discrete, functional parts. It turned out, computers weren't really that complicated to understand after all. 
 
-I started reading a book called *[Code](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319)*  and became fascinated that simple binary choices could build on each other to create an operating system, the internet, and virtual worlds complete with beautiful graphics and sounds. (It's still amazing to me...and, I find, something of a metaphor for human things, like how love is built.) 
+I started reading a book called *[Code](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319)*  and became fascinated that simple binary choices could build on each other to create an operating system, the internet, and virtual worlds complete with beautiful graphics and sounds. (It's still amazing to me...and I find, something of a metaphor for human things, like how love is built.) 
 
 I learned how to be a great Googler, and I solved a lot of hardware issues at our school. When a computer technician position opened up at the district office, I applied...just to see. And much to my surprise, I got the job.
 
