@@ -36,7 +36,7 @@ He blew out the dust bunnies from the fan, pointed out each part, and reseated t
 
 I started reading a book called *[Code](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319)*  and became fascinated that simple binary choices could build on each other to create an operating system, the internet, and virtual worlds complete with beautiful graphics and sounds. (It's still amazing to me...and, I find, something of a metaphor for human things, like how love is built.) 
 
-I learned how to be a great Googler, and I solved a lot of hardware issues at our school. When a computer technician position opened up at the district office, I applied...just to see. Much to my surprise, I got the job.
+I learned how to be a great Googler, and I solved a lot of hardware issues at our school. When a computer technician position opened up at the district office, I applied...just to see. And much to my surprise, I got the job.
 
 I worked as a computer technician for six years. In addition to repairing and setting up devices and providing technical support to schools, I also administered our websites, and eventually, our LMS. I got to be a part of the implementation and went to InstructureCon (for Canvas LMS) two summers. There, I learned about all kinds of amazing customizations and API tools that we could use to make things more efficient (and fun!) I was introduced to APIs, Json, JavaScript and Ruby and there were so many things I wanted to make and do, but just didn't have the time or the fundamental knowledge to implement my ideas. 
 
