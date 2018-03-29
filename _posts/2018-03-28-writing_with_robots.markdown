@@ -32,7 +32,7 @@ One day, we had a Dell Optilex 330 with a blue screen of death. I had Googled as
 
 They weren't.
 
-He blew out the dust bunnies from the fan, pointed out each part, and reseated the ram. Then, he put the side back on and plugged everything back in. He turned it back on...and voilà! Windows loaded; no more scary white words splattered across the screen. I had never seen the inside of a machine before, and I didn't expect it to be organized into such discrete, functional parts. It turned out, computers weren't really that complicated to understand after all. 
+He blew out the dust bunnies from the fan, pointed out each part, and reseated the RAM. Then, he put the side back on and plugged everything back in. He turned it back on...and voilà! Windows loaded; no more scary white words splattered across the screen. I had never seen the inside of a machine before, and I didn't expect it to be organized into such discrete, functional parts. It turned out, computers weren't really that complicated to understand after all. 
 
 I started reading a book called *[Code](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319)*  and became fascinated that simple binary choices could build on each other to create an operating system, the internet, and virtual worlds complete with beautiful graphics and sounds. (It's still amazing to me...and I find, something of a metaphor for human things, like how love is built.) 
 
