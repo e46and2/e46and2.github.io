@@ -8,7 +8,7 @@ permalink:  writing_with_robots
 
 Why do I want to become a developer? The short answer is (tl;dr): because it's fun.  And the long answer is: because I finally believe that I can. 
 
-In her 2004 article for *The American Scholar,* "[The Scientific Method: Dining with Robots](https://www.jstor.org/stable/41221351?seq=1#page_scan_tab_contents)," Ellen Ullman describes the experience of her first programming class. When I first read this article as an undergrad, I was struck by three things. 
+In her 2004 article for *The American Scholar,* "[The Scientific Method: Dining with Robots](https://www.jstor.org/stable/41221351?seq=1#page_scan_tab_contents)," Ellen Ullman describes the experience of her first programming class. When I first read this article as an undergrad, I was struck by three things:
 
 First, that what she said was fascinating: as a culture, our mechanization and desire for sterilized order suggests that we are becoming more like machines, rather than (or in addition to) them becoming like us. Second, and what resonated with me more, was that Ullman was a woman, an English major, *and* a programmer. And third, she described programming in a way that was relatable to me.
 
