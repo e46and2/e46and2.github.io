@@ -16,7 +16,7 @@ At the time, I was working toward my BA in English Writing. I had taken a course
 
 That began to change when I took "Technology and Culture" and as I became a TA for those courses. (Shout out to Dr. Tang!)
 
-In the first units of the course, we learned about the history of the internet. This blew my mind. It had never occured to me  to wonder about how technologies like this developed, or to investigate the social and political nuance that influences its development and implementation. Arnold Pacey's idea that "[technology is not neutral](https://www.amazon.com/Culture-Technology-MIT-Press/dp/0262660563)" was paradigm-shifting for me, and has colored the way I view technological development ever since: to be fiercely user-focused and to take into account broader social and cultural factors as well.
+In the first units of the course, we learned about the history of the internet. This blew my mind. It had never occured to me  to wonder about how technologies like this developed, or to investigate the social and political nuance that influences their development and implementation. Arnold Pacey's idea that "[technology is not neutral](https://www.amazon.com/Culture-Technology-MIT-Press/dp/0262660563)" was paradigm-shifting for me, and has colored the way I view technological development ever since: to be fiercely user-focused and to take into account broader social and cultural factors as well.
 
 In the last unit of the course, we learned about the contributions of minority figures in technology. This is where I met Ellen. I was impressed and fascinated that a fellow English major could become a programmer. I wanted to do that too...but I still felt like I wasn't technically-minded enough to pursue programming. 
 
