@@ -6,13 +6,13 @@ permalink:  writing_with_robots
 ---
 
 
-Why do I want to become a developer? The short answer is (tl;dr): because it's fun.  And the long answer is: because I finally believe that I can. 
+Why do I want to become a developer? The short answer (tl;dr) is: because it's fun.  And the long answer is: because I finally believe that I can. 
 
-In her 2004 article for *The American Scholar,* "[The Scientific Method: Dining with Robots](https://www.jstor.org/stable/41221351?seq=1#page_scan_tab_contents)," Ellen Ullman describes the experience of her first programming class. When I first read this article as an undergrad, I was struck by three things:
+In her 2004 article for *The American Scholar,* "[The Scientific Method: Dining with Robots](https://www.jstor.org/stable/41221351?seq=1#page_scan_tab_contents)," Ellen Ullman describes the experience of her first programming class. When I first read this article as an undergrad, I was struck by three things.
 
 First, that what she said was fascinating: as a culture, our mechanization and desire for sterilized order suggests that we are becoming more like machines, rather than (or in addition to) them becoming like us. Second, and what resonated with me more, was that Ullman was a woman, an English major, *and* a programmer. And third, she described programming in a way that was relatable to me.
 
-At the time, I was working toward my BA in English Writing. I had taken a course called "Technology and Culture" to fill a core curriculum requirement. It was intimidating because it was from *The Department of Engineering*(!), and I had a dubious relationship with anything I considered to be technical. It's hard to explain why. In high school, I loved my physics classes, and I was approached by the instructor to take his electronics courses, but sadly, at the time, I had the impression that electronics and anything even slightly mechanical or technical was only for really smart guys who played video games. Not me.
+At the time, I was working toward my BA in English Writing. I had taken a course called "Technology and Culture" to fill a core curriculum requirement. It was intimidating because it was from *The Department of Engineering*(!), and I had a dubious relationship with anything I considered to be technical. It's hard to explain why. In high school, I loved my physics classes, and I was approached by the instructor to take his electronics courses. I rebuffed. Sadly, at the time, I had the impression that electronics and anything even slightly mechanical or technical was only for smart guys who played video games, and not me.
 
 That began to change when I took "Technology and Culture" and as I became a TA for those courses. (Shout out to Dr. Tang!)
 
@@ -20,9 +20,9 @@ In the first units of the course, we learned about the history of the internet. 
 
 In the last unit of the course, we learned about the contributions of minority figures in technology. This is where I met Ellen. I was impressed and fascinated that a fellow English major could become a programmer. I wanted to do that too...but I still felt like I wasn't technically-minded enough to pursue programming. 
 
-After I graduated, I enrolled in an MA program for eLearning Design and Development. It felt somewhat technical, and "[close to the machine](https://www.amazon.com/Close-Machine-Technophilia-Its-Discontents/dp/1250002486)," but still tied closely enough to the humanities for me to feel like I belonged. Eventually, and despite the similarities between instructional design and programming, I found that I was more interested in coding than pedagogy, so I dropped out to attend computer science classes at a community college. I learned about networking and operating systems. I learned about Dark Basic, C++, Java, Dos, and Unix. I was fascinated. 
+After I graduated, I enrolled in an MA program for eLearning Design and Development. It felt somewhat technical, and "[close to the machine](https://www.amazon.com/Close-Machine-Technophilia-Its-Discontents/dp/1250002486)," but still tied closely enough to the humanities for me to feel like I belonged. Eventually, and despite the similarities between instructional design and programming, I found that I was more interested in coding than pedagogy. I dropped out to attend computer science classes at a community college. I learned about networking and operating systems. I learned about Dark Basic, C++, Java, Dos, and Unix. I was fascinated. 
 
-I loved creating things that I could interact with on the screen. I loved the way it made me rethink communication. I loved breaking meaning down into parts and trying to figure out how to communicate it to a machine that didn't know anything until I taught it something. It challenged me to rethink how I assumed and relayed meaning to humans and machines alike, and to say exactly what I meant, to both audiences.
+I loved creating things that I could interact with on the screen. I loved the way it made me rethink communication. I loved breaking meaning down into parts and trying to figure out how to communicate it to a machine that didn't know anything until I taught it something. It challenged me to rethink how I assumed and relayed meaning to humans and machines alike, and to say exactly what I meant (and to both audiences.)
 
 In short, I loved the pure grammar of it. I realized that I was a more technically-minded English major than I thought, and I began to see programming in the context of linguistics (my first declared major...and longtime love) and that made it seem much more approachable to me. It was just like writing, but with robots.
 
@@ -30,9 +30,7 @@ At the same time, I got a job as a media/tech aide at an elementary school. My j
 
 One day, we had a Dell Optilex 330 with a blue screen of death. I tried as much as I could to figure out the issue (even turning it off and then on again!), but nothing worked. I called the Help Desk and a technician came over. He was genial and eager to show me what to look for and what to try. He crouched down and unplugged the tower and popped off the side panel of the machine.  My mind was blown again. I'm not sure what I expected to see, but I know that I expected the magical innards of a computer to be much more dense and entwined and complicated. Maybe oozing with metallic fluid. Or covered with an incipherable mechanical haze that only certain shamans from WoW could penetrate with a knowing gaze.
 
-They weren't.
-
-He blew out the dust bunnies from the fan, pointed out each part, and reseated the RAM. Then, he put the side back on and plugged everything back in. He turned it back on...and voilà! Windows loaded; no more scary white words splattered across the screen. I had never seen the inside of a machine before, and I didn't expect it to be organized into such discrete, functional parts. It turned out, computers weren't really that complicated to understand after all. 
+But they were more practical than that. The technician blew out the dust bunnies from the fan, pointed out each part, and reseated the RAM. Then, he put the side back on and plugged everything back in. He turned it back on...and voilà! Windows loaded; no more scary white words splattered across the screen. I had never seen the inside of a machine before, and I didn't expect it to be organized into such discrete, functional parts. It turned out, computers weren't really that complicated to understand after all. 
 
 I started reading a book called *[Code](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319)*  and became fascinated that simple binary choices could build on each other to create an operating system, the internet, and virtual worlds complete with beautiful graphics and sounds. (It's still amazing to me...and I find, something of a metaphor for human things, like how love is built.) 
 
