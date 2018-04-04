@@ -38,7 +38,7 @@ As an aide, I learned how to be a great Googler, and I solved a lot of hardware 
 
 I worked as a computer technician for six years. In addition to repairing and setting up devices and providing technical support to schools, I also administered our websites, and eventually, our LMS. I got to be a part of the implementation and went to InstructureCon (for Canvas LMS) two summers. There, I learned about all kinds of amazing customizations and API tools that we could use to make things more efficient (and fun!) I was introduced to Json, JavaScript, and Ruby, and there were so many things I wanted to make and do, but just didn't have the time or the fundamental knowledge to implement my ideas. 
 
-I started longing to spend more time working on things like that, but the role of technician (i.e. replacing Chromebook keys, by that point) was the primary focus of that job. I also started contract work as a webmaster and fell in love with the idea of working with the web full time.
+I started longing to spend more time working on things like that, but the role of technician (i.e. replacing Chromebook keys, by that point) was the primary focus of the job. I also started contract work as a webmaster and fell in love with the idea of working with the web full time.
 
 After a lot of consideration, and after starting the JavaScript Bootcamp at Flatiron, I was ready to take a leap. I quit my job as a technician and enrolled in the online web developer program. So far it's been the best decision I've ever made. 
 
