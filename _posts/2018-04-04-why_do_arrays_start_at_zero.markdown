@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Why Do Arrays Start At Zero?"
-date:       2018-04-04 07:53:37 +0000
+date:       2018-04-04 03:53:37 -0400
 permalink:  why_do_arrays_start_at_zero
 ---
 
@@ -47,7 +47,7 @@ Imagine this:
 a. I marked an X on the ground at the intersection of Main Street and Pine Drive
 b. I buried a pile of gold bars two steps from X
 
-What I'm saying programmatically is: you'll be intersted in the value of goldbars[2].
+What I'm saying programmatically is: you'll be interested in the value of goldbars[2].
 
 To find the treasure, you would follow *three* procedural steps: find X, take one step, take a second step. But you will have only taken two actual steps from X. Which is probably the only part you'd describe to your friends, because the idea of finding X would seem too obvious.
 
